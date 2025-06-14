@@ -1,6 +1,4 @@
-# Online Discussion Forum in python
-A multithreaded client-server discussion forum built with UDP/TCP sockets in Python, featuring user login, message threads, and file transfer support.   
-The source code is located in the project/ directory.
+## COMP9331 Assignment - Online Discussion Forum
 ### Program design
 - server.py
     - function & class
